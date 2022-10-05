@@ -1,0 +1,10 @@
+###### DEVOPS TOOLS LIST######
+scm - git
+build -maven
+CICD - jenkins
+Codequality - sonar
+artifactory - jfrog
+Docker 
+Kubernetes
+Terraforms
+Cloud -AWS 15+ resources etc...
